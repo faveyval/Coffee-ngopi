@@ -1,0 +1,42 @@
+/* RESET CSS  */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.nav-slide>a{
+    height: 24px;
+    gap: 56px;
+    
+}    
+
+.intro>h1{
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 57.6px;
+    /* text-align: left; */
+
+}
+
+.intro>p{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    
+}
+
+
+
